@@ -46,7 +46,7 @@ const Abstract = styled.p`
   @media ${QUERIES.tabletAndUp} {
     -webkit-line-clamp: 16;
   }
-  @meida ${QUERIES.laptopAndUp} {
+  @media ${QUERIES.laptopAndUp} {
     -webkit-line-clamp: 10;
   }
 `;
